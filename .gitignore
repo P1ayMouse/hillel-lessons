@@ -156,6 +156,7 @@ yarn-error.log
 
 static
 .env
+.DS_Store
 xmlrunner
 frontend/dist
 frontend-dist
